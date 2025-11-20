@@ -1,7 +1,6 @@
-## :gun::libra::smoking::space_invader::meat_on_bone::musical_keyboard::8ball::money_with_wings::diamond_shape_with_a_dot_inside::recycle::wheelchair::factory::potable_water::recycle::diamond_shape_with_a_dot_inside::money_with_wings::8ball::musical_keyboard::meat_on_bone::space_invader::children_crossing::space_invader::meat_on_bone::musical_keyboard::8ball::money_with_wings::diamond_shape_with_a_dot_inside::recycle::wheelchair::factory::potable_water::recycle::diamond_shape_with_a_dot_inside::money_with_wings::8ball::musical_keyboard::meat_on_bone::space_invader::smoking::libra::gun:
+## :gun::libra::smoking::space_invader::meat_on_bone::musical_keyboard::8ball::money_with_wings::diamond_shape_with_a_dot_inside::recycle::wheelchair::factory::potable_water::recycle::diamond_shape_with_a_dot_inside::money_with_wings::8ball::musical_keyboard::meat_on_bone::space_invader::children_crossing::space_invader::meat_on_bone::musical_keyboard::wheelchair::factory::potable_water::recycle::diamond_shape_with_a_dot_inside::money_with_wings::8ball::musical_keyboard::meat_on_bone::space_invader::smoking::libra::gun:
 ![Eat Raw Meat](https://f4.bcbits.com/img/0001738684_100.png)
- <img align="left" alt="Coding" width="400" src="https://www.enworld.org/media/hypnotoad-gif.111323/full"> <img align="right" alt="Coding" width="400" src="https://www.enworld.org/media/hypnotoad-gif.111323/full">
-
+ <img align="center" alt="Coding" width="400" src="https://www.enworld.org/media/hypnotoad-gif.111323/full"> 
 <!--
 **akempley/akempley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
