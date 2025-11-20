@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Eat Raw Meat](https://f4.bcbits.com/img/0001738684_100.png)
- <img align="right" alt="Coding" width="400" src="(https://www.enworld.org/media/hypnotoad-gif.111323/full)">
+ <img align="right" alt="Coding" width="400" src="https://www.enworld.org/media/hypnotoad-gif.111323/full">
 
 <!--
 **akempley/akempley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
