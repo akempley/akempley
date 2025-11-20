@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Eat Raw Meat](https://gangcult.bandcamp.com/)
+![Eat Raw Meat](https://f4.bcbits.com/img/0001738684_100.png)
 <!--
 **akempley/akempley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
