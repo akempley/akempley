@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![MasterHead]https://gangcult.bandcamp.com/]https://github.com/akempley
+[![Eat Raw Meat](https://gangcult.bandcamp.com/)]https://github.com/akempley
 <!--
 **akempley/akempley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
