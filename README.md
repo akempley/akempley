@@ -1,4 +1,4 @@
-## Hi there 👋
+## :gun::space_invader::musical_keyboard::factory::money_with_wings::8ball::meat_on_bone::smoking::gun:
 ![Eat Raw Meat](https://f4.bcbits.com/img/0001738684_100.png)
  <img align="left" alt="Coding" width="400" src="https://www.enworld.org/media/hypnotoad-gif.111323/full"> <img align="right" alt="Coding" width="400" src="https://www.enworld.org/media/hypnotoad-gif.111323/full">
 
